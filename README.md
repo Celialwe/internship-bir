@@ -6,6 +6,7 @@ This includes :
 - A folder of all the images in the notebook
 - A folder of the graph I generated
 - A folder of interactive graph visualisation compatible with [gephi](#How-to-use-Gephi)
+- The slide of the presentation I did in the end of the internship
 
 ## How to use Gephi
 Install [Gephi](https://gephi.org/users/download/)
